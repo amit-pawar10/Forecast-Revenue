@@ -10,3 +10,6 @@ A Forecasting model that predicts the revenue of the company considering effect 
 4. Model used: ARIMA, SARIMA, SARIMAX and compared the performance
 5. Parameter tuning done
 6. Use tuned model to predict future revenue
+
+7. ![image](https://github.com/user-attachments/assets/c5fff465-1995-46a1-abf4-194062a39f45)
+
